@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "653598764428",
+    "firebase_url": "https://calculadora-flex-20mob-yamashm.firebaseio.com",
+    "project_id": "calculadora-flex-20mob-yamashm",
+    "storage_bucket": "calculadora-flex-20mob-yamashm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653598764428:android:1ccbf3e7c12b1cb0c2faa9",
+        "android_client_info": {
+          "package_name": "br.com.calculaflex.yamashm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653598764428-pnvekmkfur2jkl97nbo78qk8gpsmnabt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcpe5y_6IB0rLWyRGV5v2L74h5ZrwhalE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653598764428-pnvekmkfur2jkl97nbo78qk8gpsmnabt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653598764428:android:e20a593910b3a343c2faa9",
+        "android_client_info": {
+          "package_name": "br.com.calculaflex.yamashm.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653598764428-pnvekmkfur2jkl97nbo78qk8gpsmnabt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcpe5y_6IB0rLWyRGV5v2L74h5ZrwhalE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653598764428-pnvekmkfur2jkl97nbo78qk8gpsmnabt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653598764428:android:f920113a23f98049c2faa9",
+        "android_client_info": {
+          "package_name": "br.com.calculaflex.yamashm.hml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653598764428-pnvekmkfur2jkl97nbo78qk8gpsmnabt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcpe5y_6IB0rLWyRGV5v2L74h5ZrwhalE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653598764428-pnvekmkfur2jkl97nbo78qk8gpsmnabt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
